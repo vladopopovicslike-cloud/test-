@@ -1,4 +1,4 @@
-x=25
+x=input("Enter a number: ")
 y=input("Enter a number: ")
 y=int(y)
 z=x+y
